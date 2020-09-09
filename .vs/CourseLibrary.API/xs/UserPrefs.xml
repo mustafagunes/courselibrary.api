@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9FD7F7CA-BC05-47B2-8D63-11DC4C727454}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseLibrary/Migrations/20200909064004_InitialMigration.cs">
+    <Files>
+      <File FileName="CourseLibrary/Program.cs" Line="27" Column="1" />
+      <File FileName="CourseLibrary/appsettings.json" />
+      <File FileName="CourseLibrary/Startup.cs" Line="35" Column="1" />
+      <File FileName="CourseLibrary/Migrations/20200909064004_InitialMigration.cs" Line="21" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseLibrary.API" expanded="True">
+            <Node name="CourseLibrary" expanded="True">
+              <Node name="Migrations" expanded="True">
+                <Node name="20200909064004_InitialMigration.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CourseLibrary PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
