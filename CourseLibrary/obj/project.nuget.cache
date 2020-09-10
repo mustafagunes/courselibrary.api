@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NHuUZgLO4uTOjo11RQx1dy0pMfoTXbWGfnfMH+FUb1kH8FFxvls0IR+4Grsmmwu2J1JXN4YVGM6mCIbrtqeHZQ==",
+  "dgSpecHash": "p+u13RTBFEWgCdB99vq534w+0tBU82QMFnBOYA0t0WvMwcV4aasrDne6gl1dugAWGIWFLUFoGuGWjQRGrNVQfA==",
   "success": true,
   "projectFilePath": "/Users/mustafagunes/RiderProjects/CourseLibrary.API/CourseLibrary/CourseLibrary.csproj",
   "expectedPackageFiles": [
@@ -101,7 +101,8 @@
     "/Users/mustafagunes/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/mustafagunes/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/mustafagunes/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/Users/mustafagunes/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "/Users/mustafagunes/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/mustafagunes/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }
