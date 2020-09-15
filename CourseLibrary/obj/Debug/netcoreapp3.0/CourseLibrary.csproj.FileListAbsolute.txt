@@ -79,3 +79,5 @@
 /Users/mustafagunes/RiderProjects/CourseLibrary.API/CourseLibrary/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
 /Users/mustafagunes/RiderProjects/CourseLibrary.API/CourseLibrary/obj/Debug/netcoreapp3.0/CourseLibrary.csproj.CoreCompileInputs.cache
 /Users/mustafagunes/RiderProjects/CourseLibrary.API/CourseLibrary/obj/Debug/netcoreapp3.0/CourseLibrary.genruntimeconfig.cache
+/Users/mustafagunes/RiderProjects/CourseLibrary.API/CourseLibrary/bin/Debug/netcoreapp3.0/AutoMapper.dll
+/Users/mustafagunes/RiderProjects/CourseLibrary.API/CourseLibrary/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
