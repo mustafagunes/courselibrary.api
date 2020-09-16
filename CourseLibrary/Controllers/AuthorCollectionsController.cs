@@ -21,6 +21,7 @@ namespace CourseLibrary.API.Controllers
             _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
+        [HttpPost]
         public ActionResult<IEnumerable<AuthorDto>> CreateAuthorCollection(IEnumerable<AuthorForCreationDto> authorCollection)
         {
             var authorEntities = _mapper.Map<IEnumerable<Entities.Author>>(authorCollection);
