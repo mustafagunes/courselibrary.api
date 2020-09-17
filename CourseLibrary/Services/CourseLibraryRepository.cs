@@ -67,7 +67,7 @@ namespace CourseLibrary.API.Services
 
         public void UpdateCourse(Course course)
         {
-            // no code in this implementation
+            
         }
 
         public void AddAuthor(Author author)

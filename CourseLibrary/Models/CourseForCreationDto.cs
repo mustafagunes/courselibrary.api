@@ -5,14 +5,7 @@ using CourseLibrary.API.ValidationAttributes;
 
 namespace CourseLibrary.API.Models
 {
-    [CourseTitleDescriptionMustBeDifferentDescription(ErrorMessage = "Custom Validation file error message")]
-    public class CourseForCreationDto
+    public class CourseForCreationDto : CourseForManipulationDto
     {
-        [Required(ErrorMessage = "For Title null error message")]
-        [MaxLength(100, ErrorMessage = "For Title maxlength error message")]
-        public string Title { get; set; }
-        
-        [MaxLength(500, ErrorMessage = "For Description error message")]
-        public string Description { get; set; }
     }
 }
